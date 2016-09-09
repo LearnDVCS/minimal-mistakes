@@ -1,7 +1,5 @@
 ----
-defaults:
-  # _pages
-  - permalink: /
+- permalink: /
 ----      
 
 ## A New Post
