@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "Pages"
-    url: /page-archive/
+    url: /pages/home/
 
   - title: "Sample Navigation Link"
     url: https://mmistakes.github.io/minimal-mistakes/docs/navigation/
