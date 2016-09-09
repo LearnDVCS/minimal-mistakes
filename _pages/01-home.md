@@ -1,6 +1,6 @@
-----
-- permalink: /
-----      
+---
+permalink: /pages/home/
+---      
 
 ## This is a home page in the Pages set of content...
 
