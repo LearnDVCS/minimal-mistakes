@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Site Title"
+title                    : "LearnDVCS"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "Dan Gilleland"
+description              : "Stuff from an Instructor."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -77,10 +77,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : "bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
+  name             : "Dan Gilleland"
+  avatar           :
+  bio              : "I am a Computer Programming instructor in Digital Media and IT, NAIT, Alberta."
+  location         : "Edmonton, Alberta, Canada"
   email            :
   uri              :
   bitbucket        :
