@@ -1,6 +1,6 @@
-----
-- permalink: /
-----      
+---
+permalink: /
+---      
 
 ## A New Post
 
